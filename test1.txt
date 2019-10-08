@@ -6,4 +6,7 @@ Welcome to my new project
 its all about friends
 CSG-commits
 
+android 
+java
+
 thank you
